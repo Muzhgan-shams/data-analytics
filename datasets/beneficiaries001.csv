@@ -1,0 +1,13 @@
+beneficiary_id,full_name,age,gender,province,district,household_size,vulnerability_score,registration_date,phone
+1,Ahmad Shah,45,Male,Kabul,Kabul,6,7.5,2024-01-15,0701234567
+2,fatima noori,32,female,kabul,Kabul,4,8.2,2024-01-15,0709876543
+3,Mohammad Ali,,Male,Kandahar,Kandahar,3,6.1,2024-01-16,
+4,Ahmad Shah,45,Male,Kabul,Kabul,6,7.5,2024-01-15,0701234567
+5,Zainab Hussain,28,F,Herat,Herat,5,9.0,2024-01-16,0791234567
+6,Abdul Rahman,999,Male,Kabul,Kabul,7,5.5,2024-01-17,0781234567
+7,,35,Male,Balkh,Mazar,4,7.8,2024-01-17,0771234567
+8,Mariam Sultani,29,female,herat,Herat,3,8.5,2024-01-18,0761234567
+9,Khalid Ahmadi,38,Male,Kandahar,Kandahar,,6.2,2024-01-18,
+10,Sadia Rahimi,24,FEMALE,Kabul,Kabul,2,11.0,2024-01-19,0751234567
+11,Ahmad Shah,45,Male,Kabul,Kabul,6,7.5,2024-01-15,0701234567
+12,Najiba Karimi,31,Female,Balkh,Mazar,4,8.9,2024-01-19,0741234567
