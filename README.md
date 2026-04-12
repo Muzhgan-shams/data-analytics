@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-This an hands on data analytics learning portfolio focused on
+This is a hands on data analytics learning portfolio focused on
 data workflows using Python, SQL, and Power BI.
 
 ## Tools and Technologies
