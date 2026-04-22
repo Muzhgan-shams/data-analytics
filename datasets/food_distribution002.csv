@@ -1,0 +1,26 @@
+distribution_id,beneficiary_name,age,gender,province,district,food_package_kg,distribution_date,enumerator,status,household_size,monthly_income_usd
+1,Ahmad Karimi,45,Male,Kabul,Kabul,25,2024-02-01,Enumerator_A,Completed,6,120
+2,fatima noori,32,female,kabul,Kabul,25,2024-02-01,Enumerator_A,completed,4,85
+3,Mohammad Yusuf,28,Male,Kandahar,Kandahar,100,2024-02-02,Enumerator_B,Completed,3,60
+4,Zainab Hussain,,Female,Herat,Herat,25,2024-02-02,Enumerator_B,Completed,5,
+5,Abdul Karim,67,Male,Kabul,Kabul,25,2024-02-03,Enumerator_A,Completed,7,150
+6,Mariam Sultani,29,female,herat,Herat,25,2024-02-03,Enumerator_C,Completed,3,72
+7,Khalid Ahmadi,38,Male,Kandahar,Kandahar,25,2024-02-04,Enumerator_B,COMPLETED,9,45
+8,Sadia Rahimi,24,FEMALE,Kabul,Kabul,25,2024-02-04,Enumerator_A,Completed,2,200
+9,Najiba Karimi,31,Female,Balkh,Mazar,25,2024-02-05,Enumerator_C,Completed,4,95
+10,Omar Sharifi,55,Male,Kabul,Kabul,25,2024-02-05,Enumerator_A,Completed,6,130
+11,Freshta Ahmadi,26,Female,Balkh,Mazar,25,2024-02-06,Enumerator_C,Completed,3,80
+12,Habibullah Khan,42,Male,Kandahar,Kandahar,25,2024-02-06,Enumerator_B,Completed,8,55
+13,Razia Sultani,35,Female,Herat,Herat,25,2024-02-07,Enumerator_B,Pending,5,90
+14,Bismillah Omar,50,Male,Kabul,Kabul,25,2024-02-07,Enumerator_A,Completed,7,110
+15,Laila Ahmadi,22,Female,Balkh,Mazar,25,2024-02-08,Enumerator_C,Completed,2,65
+16,Qasim Wardak,48,Male,Kabul,Kabul,25,2024-02-08,Enumerator_A,Completed,5,140
+17,Maryam Noori,33,female,Herat,Herat,25,2024-02-09,Enumerator_B,completed,4,88
+18,Jawad Sultani,61,Male,Kandahar,Kandahar,25,2024-02-09,Enumerator_B,Completed,10,40
+19,Nasrin Karimi,27,Female,Balkh,Mazar,25,2024-02-10,Enumerator_C,Completed,3,75
+20,Shirin Ahmadi,,Female,Kabul,Kabul,25,2024-02-10,Enumerator_A,Completed,4,
+21,Abdullah Khan,39,Male,Kandahar,Kandahar,25,2024-02-11,Enumerator_B,Completed,6,50
+22,Parisa Noori,44,Female,Herat,Herat,25,2024-02-11,Enumerator_B,Completed,5,95
+23,Sher Ahmad,72,Male,Kabul,Kabul,25,2024-02-12,Enumerator_A,Completed,8,100
+24,Nafisa Sultani,29,Female,Balkh,Mazar,25,2024-02-12,Enumerator_C,Completed,3,70
+25,Rahimullah Jan,58,Male,Kandahar,Kandahar,999,2024-02-13,Enumerator_B,Completed,7,45
