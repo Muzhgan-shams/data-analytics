@@ -1,0 +1,21 @@
+_id,start,end,beneficiary_id,enumerator,province,district,gender,age,received_food,quantity_correct,food_quality,distribution_point_distance,waiting_time_hours,dignity_respected,complaints_mechanism_known,would_recommend,primary_use_of_food,challenges,overall_satisfaction,gps_latitude,gps_longitude
+1,2024-02-15 09:00,2024-02-15 09:25,1,Enumerator_A,Kabul,Kabul,Male,45,yes,yes,good,2,1,yes,yes,yes,household_consumption,none,4,34.5253,69.1783
+2,2024-02-15 09:30,2024-02-15 09:55,2,Enumerator_A,Kabul,Kabul,Female,32,yes,yes,good,1,0.5,yes,no,yes,household_consumption,long_wait,5,34.5261,69.1791
+3,2024-02-15 10:00,2024-02-15 10:30,3,Enumerator_B,Kandahar,Kandahar,Male,28,yes,no,poor,5,2,no,no,no,household_consumption,quantity_insufficient,2,31.6289,65.7372
+4,2024-02-15 10:35,2024-02-15 11:00,4,Enumerator_B,Kandahar,Kandahar,Female,35,yes,yes,good,3,1,yes,yes,yes,household_consumption,none,4,31.6301,65.7389
+5,2024-02-15 11:00,2024-02-15 11:30,5,Enumerator_A,Kabul,Kabul,Male,67,yes,yes,poor,1,0.5,yes,yes,yes,household_consumption,food_quality_issues,3,34.5271,69.1801
+6,2024-02-15 11:35,2024-02-15 12:00,6,Enumerator_B,Kandahar,Kandahar,Female,29,yes,yes,good,4,1.5,yes,no,yes,household_consumption,distance_too_far,4,31.6315,65.7401
+7,2024-02-15 13:00,2024-02-15 13:25,7,Enumerator_C,Herat,Herat,Male,38,yes,no,poor,6,3,no,no,no,sold_some,quantity_insufficient,2,34.3482,62.2041
+8,2024-02-15 13:30,2024-02-15 14:00,8,Enumerator_C,Herat,Herat,Female,24,yes,yes,good,2,1,yes,yes,yes,household_consumption,none,5,34.3491,62.2055
+9,2024-02-15 14:00,2024-02-15 14:30,9,Enumerator_A,Balkh,Mazar,Female,31,yes,yes,good,3,1,yes,yes,yes,household_consumption,none,4,36.7069,67.1125
+10,2024-02-15 14:35,2024-02-15 15:00,10,Enumerator_A,Balkh,Mazar,Male,55,yes,yes,poor,2,0.5,yes,no,yes,household_consumption,food_quality_issues,3,36.7081,67.1139
+11,2024-02-15 15:00,2024-02-15 15:30,11,Enumerator_C,Herat,Herat,Female,26,yes,yes,good,1,0.5,yes,yes,yes,household_consumption,none,5,34.3501,62.2069
+12,2024-02-15 15:35,2024-02-15 16:00,12,Enumerator_B,Kandahar,Kandahar,Male,42,yes,yes,good,4,1.5,yes,yes,yes,household_consumption,none,4,31.6329,65.7415
+13,2024-02-16 09:00,2024-02-16 09:30,13,Enumerator_B,Kandahar,Kandahar,Female,35,yes,no,poor,5,2.5,no,no,no,sold_some,quantity_insufficient,2,31.6341,65.7428
+14,2024-02-16 09:35,2024-02-16 10:00,14,Enumerator_A,Kabul,Kabul,Male,50,yes,yes,good,2,1,yes,yes,yes,household_consumption,none,4,34.5281,69.1811
+15,2024-02-16 10:00,2024-02-16 10:30,15,Enumerator_C,Balkh,Mazar,Female,22,yes,yes,good,3,1,yes,yes,yes,household_consumption,none,5,36.7091,67.1151
+16,2024-02-16 10:35,2024-02-16 11:00,16,Enumerator_A,Kabul,Kabul,Male,48,yes,yes,poor,1,0.5,yes,no,yes,household_consumption,food_quality_issues,3,34.5291,69.1821
+17,2024-02-16 11:00,2024-02-16 11:30,17,Enumerator_B,Kandahar,Kandahar,Female,33,yes,yes,good,4,1.5,yes,yes,yes,household_consumption,none,4,31.6355,65.7441
+18,2024-02-16 11:35,2024-02-16 12:00,18,Enumerator_B,Kandahar,Kandahar,Male,61,yes,no,poor,6,3,no,no,no,sold_some,quantity_insufficient,2,31.6368,65.7455
+19,2024-02-16 13:00,2024-02-16 13:30,19,Enumerator_C,Balkh,Mazar,Female,27,yes,yes,good,3,1,yes,yes,yes,household_consumption,none,4,36.7101,67.1163
+20,2024-02-16 13:35,2024-02-16 14:00,20,Enumerator_A,Kabul,Kabul,Female,41,yes,yes,good,2,0.5,yes,yes,yes,household_consumption,none,5,34.5301,69.1831
