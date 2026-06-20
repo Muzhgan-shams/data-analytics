@@ -1,0 +1,26 @@
+visit_id,patient_name,age,gender,province,district,visit_date,clinic_name,doctor_name,diagnosis,treatment_provided,follow_up_required,visit_duration_minutes,patient_satisfaction,travel_distance_km,payment_status,amount_paid_usd
+1,Ahmad Shah,34,Male,Kabul,Kabul,2024-03-01,Clinic_A,Dr_Ahmadi,respiratory,medication,yes,45,4,5,paid,10
+2,Fatima Noori,28,female,Kabul,Kabul,2024-03-01,Clinic_A,Dr_Ahmadi,maternal_health,checkup,no,30,5,2,paid,5
+3,Mohammad Ali,45,Male,Kandahar,Kandahar,2024-03-02,Clinic_B,Dr_Karimi,malnutrition,nutrition_support,yes,60,3,8,unpaid,0
+4,Zainab Hussain,32,Female,Herat,Herat,2024-03-02,Clinic_C,Dr_Sultani,maternal_health,checkup,yes,40,4,4,paid,5
+5,Abdul Karim,67,MALE,Kabul,Kabul,2024-03-03,Clinic_A,Dr_Ahmadi,respiratory,medication,yes,50,3,3,paid,10
+6,Mariam Sultani,8,Female,Kandahar,Kandahar,2024-03-03,Clinic_B,Dr_Karimi,malnutrition,nutrition_support,yes,55,4,9,unpaid,0
+7,Khalid Ahmadi,38,Male,Herat,Herat,2024-03-04,Clinic_C,Dr_Sultani,injury,dressing,no,25,5,6,paid,15
+8,Sadia Rahimi,24,female,Kabul,Kabul,2024-03-04,Clinic_A,Dr_Ahmadi,maternal_health,checkup,no,35,5,2,paid,5
+9,Najiba Karimi,31,Female,Balkh,Mazar,2024-03-05,Clinic_D,Dr_Wardak,respiratory,medication,yes,40,4,7,paid,10
+10,Omar Sharifi,55,Male,Kabul,Kabul,2024-03-05,Clinic_A,Dr_Ahmadi,injury,dressing,no,30,4,4,paid,15
+11,Freshta Ahmadi,26,Female,Balkh,Mazar,2024-03-06,Clinic_D,Dr_Wardak,maternal_health,checkup,no,30,5,5,paid,5
+12,Habibullah Khan,42,Male,Kandahar,Kandahar,2024-03-06,Clinic_B,Dr_Karimi,malnutrition,nutrition_support,yes,65,2,10,unpaid,0
+13,Razia Sultani,35,Female,Herat,Herat,2024-03-07,Clinic_C,Dr_Sultani,maternal_health,checkup,yes,40,4,3,paid,5
+14,Bismillah Omar,50,Male,Kabul,Kabul,2024-03-07,Clinic_A,Dr_Ahmadi,respiratory,medication,yes,45,3,2,paid,10
+15,Laila Ahmadi,5,Female,Balkh,Mazar,2024-03-08,Clinic_D,Dr_Wardak,malnutrition,nutrition_support,yes,50,4,8,unpaid,0
+16,Qasim Wardak,48,Male,Kabul,Kabul,2024-03-08,Clinic_A,Dr_Ahmadi,injury,dressing,no,30,5,3,paid,15
+17,Maryam Noori,33,female,Herat,Herat,2024-03-09,Clinic_C,Dr_Sultani,respiratory,medication,yes,40,4,4,paid,10
+18,Jawad Sultani,61,Male,Kandahar,Kandahar,2024-03-09,Clinic_B,Dr_Karimi,malnutrition,nutrition_support,yes,70,2,11,unpaid,0
+19,Nasrin Karimi,27,Female,Balkh,Mazar,2024-03-10,Clinic_D,Dr_Wardak,maternal_health,checkup,no,35,5,6,paid,5
+20,Shirin Ahmadi,41,female,Kabul,Kabul,2024-03-10,Clinic_A,Dr_Ahmadi,respiratory,medication,yes,45,4,3,paid,10
+21,Abdullah Khan,39,Male,Kandahar,Kandahar,2024-03-11,Clinic_B,Dr_Karimi,injury,dressing,no,25,5,7,paid,15
+22,Parisa Noori,44,Female,Herat,Herat,2024-03-11,Clinic_C,Dr_Sultani,respiratory,medication,yes,40,3,5,paid,10
+23,Sher Ahmad,72,Male,Kabul,Kabul,2024-03-12,Clinic_A,Dr_Ahmadi,respiratory,medication,yes,999,4,4,paid,10
+24,Nafisa Sultani,29,Female,Balkh,Mazar,2024-03-12,Clinic_D,Dr_Wardak,maternal_health,checkup,no,30,5,4,paid,5
+25,Rahimullah Jan,58,Male,Kandahar,Kandahar,2024-03-13,Clinic_B,Dr_Karimi,malnutrition,nutrition_support,yes,60,1,12,unpaid,0
